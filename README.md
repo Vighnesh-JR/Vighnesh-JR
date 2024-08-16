@@ -7,7 +7,7 @@ You can reach me via my email `jrvigh@gmail.com` in case you happen to like any 
 Talking about myself, I hail from a small Village named Arpookara in the district of Kottayam in Kerala, India ✨
 ## Educational Background
 - Schooling :
-  - Sydney Montessory School, Arpookara ( Playschool $\to$ 1st Grade)
+  - Sydney Montessory School, Arpookara ( Playschool \[\to\]1st Grade)
   - Chinmaya Vidyalaya, Kottayam ( 2nd Grade to 10th Grade) CBSE
   - KE school, Mannanam ( 11th and 12th Grade) Kerala Board
 - Higher Education : 
