@@ -1,7 +1,7 @@
 # My ReadME
 Hello Everyone,
 
-I am `Vighnesh JR`, A final year undergraduate student in Aerospace engineering at IIT Bombay (as of august 2024). </br>
+I am `Vighnesh JR`, A final year dual degree student in Aerospace engineering at IIT Bombay (as of 2025). </br>
 You can reach me via my email `jrvigh@gmail.com` in case you happen to like any of my repositories and want to work on it or suggest changes. 
 
 Talking about myself, I hail from a small Village named Arpookara in the district of Kottayam in Kerala, India ✨
@@ -11,9 +11,12 @@ Talking about myself, I hail from a small Village named Arpookara in the distric
   - Chinmaya Vidyalaya, Kottayam ( 2nd Grade to 10th Grade) CBSE
   - KE school, Mannanam ( 11th and 12th Grade) Kerala Board
 - Higher Education : 
-  - Undergraduate : Indian Institute of Technology, Aerospace Engineering (2021 -2025)
+  - Bachelors + Masters : Indian Institute of Technology, Aerospace Engineering (2021 -2026)
 ## Research Interests
 - Thermoacoustics
+- Aeroacoustics
+- Turbulence
+- Computational Fluid Dynamics
 - Combustion dynamics
 - NonLinear Dynamics
 - Applied Finite element methods
